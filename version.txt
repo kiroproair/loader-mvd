@@ -1,0 +1,3 @@
+version: 1.0.0
+download: https://github.com/kiroproair/loader-mvd/releases/download/v1.0.0/MVD.exe
+changelog: Initial release with auto-update system
